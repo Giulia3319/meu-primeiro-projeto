@@ -9,3 +9,6 @@ Em C.
 
 ## Descrição do projeto
 Este projeto demonstra um programa simples utilizando a linguagem em C.
+
+print("Olá, GitHub!")
+print("Este é meu primeiro projeto.")
