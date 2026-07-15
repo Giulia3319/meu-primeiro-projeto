@@ -5,7 +5,7 @@ Este é meu primeiro projeto utilizando Git e GitHub. O objetivo é aprender a c
 Giulia
 
 ## Linguagem utilizada
-Em C
+Em C.
 
 ## Descrição do projeto
 Este projeto demonstra um programa simples utilizando a linguagem em C.
